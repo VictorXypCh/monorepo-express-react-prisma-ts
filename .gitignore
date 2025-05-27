@@ -52,8 +52,6 @@ coverage/
 jest-output.log
 vitest-output.log
 
-# === XAMPP or Apache-specific (if relevant) ===
-htdocs/
 
 # === Lockfiles ===
 # (keep these if you're using pnpm)
